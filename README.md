@@ -2,7 +2,7 @@
 
 Sample Contact Tracing app built on Salesforce Platform.
 
-![Contact_Tracing_App](https://github.com/nareshrathod0008/contact-tracing-app.git/contact-tracing/blob/master/screenshots/screenshots.png)
+![Contact_Tracing_App](https://github.com/nareshrathod0008/contact-tracing-app.git/contact-tracing/blob/master/blob:https://github.com/2652b302-b5d1-4271-a32d-e8a58b353b3a )
 
  
 ##### It's impossible to highlight all offering of this course here, but below are some major modules:
